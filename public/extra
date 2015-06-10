@@ -1,0 +1,11 @@
+<section class="related">
+				<p>Follow Us</p>
+				<a href="http://www.fb.com/theraiway">
+					<img src="img/e.png" />
+					<h3>On facebook,Till it stays</h3>
+				</a>
+				<a href="https://www.twitter.com/RaiCulture">
+					<img src="img/t.jpg" style="" />
+					<h3></h3>
+				</a>
+			</section>
